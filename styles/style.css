@@ -1,0 +1,91 @@
+/* shared header */
+.all-header{
+    color: #ff0000;
+}
+
+
+.all-btn{
+    border: 1px solid red;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+.nav-color{
+    /* background-color: #dc3545; */
+    /* background-color: black; */
+}
+.nav-left-brand{
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #ff0000;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    /* background:linear-gradient(to bottom ,black, 	#282828) ; */
+    /* background-color: black; */
+    /* border: 1px solid red; */
+}
+.banner-header {
+    text-align: center;
+    /* border: 1px solid red; */
+    padding-top: 200px;
+  }
+ .banner-container div img{
+    /* border: 1px solid red; */
+    padding-bottom: 50px;
+ } 
+  
+  .banner-header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    /* color: white; */
+    margin-bottom: 20px;
+  }
+  
+  .banner-header p {
+  
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-top: 10px;
+  }
+  
+
+
+.cards-head{
+    text-align: center;
+    /* color: azure; */
+}
+.bg-color{
+  
+}
+.card-color{
+
+}
+.card1{
+    height: 410px;
+}
+.cardss{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+    gap: 30px;
+   
+
+}
+/* top-rated-container */
+.top-rated-container{
+    padding-top: 20px;
+}
+.top-rated-container h1{
+    text-align: center;
+}
+.top-rated-container h4{
+    /* color: white; */
+}
+
+
